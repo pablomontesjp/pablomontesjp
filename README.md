@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at 42 Telefonica<br>🌱 Learning cybersecurity everyday<br>⚡ Spanish / English / Japanese
+Hey there! 👋 Passionate about cybersecurity and constantly learning. Former globetrotter 🌍 with diverse work experience abroad. Currently diving into the fascinating world of cybersecurity through the 42 Telefonica Tech Cybersecurity Bootcamp. Let's join forces to tackle complex challenges and make the digital realm more secure! I'm still a baby when it comes to coding, but I am for sure open to collaborations and eager to contribute to the cybersecurity community. Let's connect and code our way to a safer future! 💻🔒
 
 
 ## 🌐 Socials:
